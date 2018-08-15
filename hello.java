@@ -69,6 +69,6 @@ public class Problem1 {
 		System.out.println("answer is: " + newsum);
 		System.out.println("answer took: " + totaltime + "ns");		
 		
-	}
+	
 
 }
